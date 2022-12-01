@@ -1,0 +1,10 @@
+# CSC111 Final Project: Python libraries we'll be using this project
+
+# Testing and code checking
+python-ta~=1.6.3
+
+# Graphics and data visualization
+Pillow
+
+# Accessing Website
+steamfront

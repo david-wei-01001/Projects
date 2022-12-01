@@ -1,0 +1,12 @@
+# csc110-Final-Project: Python libraries required for this project.
+
+# Data Extracting:
+requests
+beautifulsoup4
+urllib3
+
+#Data Processing:
+datapackage
+
+# Graphics and data visualization:
+plotly
